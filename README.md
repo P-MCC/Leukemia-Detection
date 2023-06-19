@@ -13,3 +13,6 @@ Furthermore, the original images for this disease classification, it is also use
 ***Dataset:***
 
 [https://scotti.di.unimi.it/all/]([https://scotti.di.unimi.it/all/]())
+
+
+For more detailed information you can check out the presentation or the thesis paper.
