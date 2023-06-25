@@ -8,11 +8,11 @@ This study developed hybrid classification models that aim to achieve high perfo
 
 Furthermore, the original images for this disease classification, it is also used in different preprocessing techniques, which are frequently used in the literature and have proven to give satisfactory outcomes by increasing the overall performance of the system. Finally, after applying all the methods mentioned above, ***100% accuracy*** on the ALL-IDB1 dataset was achieved.
 
+***For more detailed information you can check out the presentation or the thesis paper.***
+
 ***Dataset:***
 
-[https://scotti.di.unimi.it/all/]([https://scotti.di.unimi.it/all/]())
-
-**For more detailed information you can check out the presentation or the thesis paper.**
+[https://scotti.di.unimi.it/all/](https://scotti.di.unimi.it/all/)
 
 ### How to run & test the project
 
